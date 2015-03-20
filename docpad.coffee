@@ -41,8 +41,6 @@ docpadConfig = {
 
 			# Styles
 			styles: [
-				"/styles/twitter-bootstrap.css"
-				"/styles/style.css"
 			]
 
 			# Scripts
