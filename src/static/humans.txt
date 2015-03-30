@@ -3,41 +3,12 @@
 
 
 /* TEAM */
-  <your title>: <your name>
-  Site:
-  Twitter:
-  Location:
-
-/* THANKS */
-  Names (& URL):
+  <your title>: __aporia
+  Site: http://imity.io
+  Twitter: @AffectiveKit
+  Location: Imperial Island
 
 /* SITE */
   Standards: HTML5, CSS3
-  Components: Modernizr, jQuery
+  Components: Modernizr, jQuery, Bootstrap, Docpad
   Software:
-
-
-
-                               -o/-
-                               +oo//-
-                              :ooo+//:
-                             -ooooo///-
-                             /oooooo//:
-                            :ooooooo+//-
-                           -+oooooooo///-
-           -://////////////+oooooooooo++////////////::
-            :+ooooooooooooooooooooooooooooooooooooo+:::-
-              -/+ooooooooooooooooooooooooooooooo+/::////:-
-                -:+oooooooooooooooooooooooooooo/::///////:-
-                  --/+ooooooooooooooooooooo+::://////:-
-                     -:+ooooooooooooooooo+:://////:--
-                       /ooooooooooooooooo+//////:-
-                      -ooooooooooooooooooo////-
-                      /ooooooooo+oooooooooo//:
-                     :ooooooo+/::/+oooooooo+//-
-                    -oooooo/::///////+oooooo///-
-                    /ooo+::://////:---:/+oooo//:
-                   -o+/::///////:-      -:/+o+//-
-                   :-:///////:-            -:/://
-                     -////:-                 --//:
-                       --                       -:
