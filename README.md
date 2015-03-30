@@ -1,3 +1,6 @@
+# AffectiveK.it
+
+The source files for the AffectiveKit website.
 
 ## Getting Started
 
